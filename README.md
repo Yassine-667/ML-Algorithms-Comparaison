@@ -1,4 +1,4 @@
-#Machine Learning Algorithms for Credit Card Fraud Detection
+## Machine Learning Algorithms for Credit Card Fraud Detection
 This project is about applying different machine learning algorithms to detect credit card fraud using a publicly available dataset.
 
 #Dataset
