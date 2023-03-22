@@ -8,8 +8,11 @@ The dataset used in this project is "Credit Card Fraud Detection" from Kaggle. I
 Three different machine learning algorithms were applied to the dataset to predict fraudulent transactions:
 
 1.Logistic Regression Algorithm
+
 2.SVM Algorithm
+
 3.DNN Algorithm
+
 # Implementation
 The code is written in Python using Jupyter Notebook. Libraries used in the code include pandas, matplotlib, scikit-learn, tensorflow, and numpy.
 
